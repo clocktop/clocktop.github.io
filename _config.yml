@@ -1,6 +1,6 @@
 title: "Kyle Clocker"
 url: "clocktop.github.io"
-baseurl: "/about/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -16,8 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/about/"
+  
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
