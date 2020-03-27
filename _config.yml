@@ -1,5 +1,5 @@
 title: "Kyle Clocker"
-url: "clocktop.github.io"
+url: "kyleclocker.com"
 baseurl: ""
 
 markdown: kramdown
@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
-  
+
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
