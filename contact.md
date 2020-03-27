@@ -20,6 +20,6 @@ is_contact: true
 
 ## Social
 
-1. [Google Scholar](#https://scholar.google.com/citations?user=bSbEZtEAAAAJ&hl=en&authuser=1)
-2. [LinkedIn](#https://www.linkedin.com/in/kyle-clocker/)
-3. [GitHub](#https://github.com/clocktop)
+1. [Google Scholar](https://scholar.google.com/citations?user=bSbEZtEAAAAJ&hl=en&authuser=1)
+2. [LinkedIn](https://www.linkedin.com/in/kyle-clocker/)
+3. [GitHub](https://github.com/clocktop)
