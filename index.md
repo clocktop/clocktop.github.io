@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profilepic.png">
 
-I am a PhD student working in Dr. Matthew Johnston's Sensors and Integrated Microelectronics Labratory, [SIM Lab](http://web.engr.oregonstate.edu/~johnstom/), at Oregon State University. 
+I am a PhD student working in Dr. Matthew Johnston's Sensors and Integrated Microelectronics Labratory, [SIM Lab](http://web.engr.oregonstate.edu/~johnstom/), at Oregon State University.
 
 ## Research Interest
 
