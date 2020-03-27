@@ -1,6 +1,6 @@
 title: "Kyle Clocker"
 url: "kyleclocker.com"
-baseurl: ""
+baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
