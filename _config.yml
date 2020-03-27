@@ -17,6 +17,8 @@ sass:
 
 nav:
 
+ - name: "About"
+   link: "/clocktop.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

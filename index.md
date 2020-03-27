@@ -10,4 +10,4 @@ I am a PhD student working in Dr. Matthew Johnston's Sensors and Integrated Micr
 
 ## Research Interest
 
-My research focuses on designing novel sensing systems for various applications such as, low power sensing on the edge, stretchable electronics, and thermal airflow sensors. I like to take an inter-disciplinary approach to my research looking for innovations and improvements from the integrated circuits (IC) level with custom CMOS IC design, through the systems level designing custom hardware, and into the signal processing realm, designing custom algorithms for signal detection. 
+My research focuses on designing novel sensing systems for various applications such as low power sensing on the edge, stretchable electronics, and thermal airflow sensors. I like to take an inter-disciplinary approach to my research looking for innovations and improvements from the integrated circuits (IC) level with custom CMOS IC design, through the systems level designing custom hardware, and into the signal processing realm, designing custom algorithms for signal detection. 
